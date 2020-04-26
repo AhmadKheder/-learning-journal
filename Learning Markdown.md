@@ -53,5 +53,15 @@ here, you have to ask yourself
    1. Am I giving up too easily? 
    1. Would I rather shower off pangs of regret, or the sweat of accomplishment? .
   
+ 4. Criticism
+  
+  in this part make some notes about things you did it badly do, you do not do it again, which is a self-criticism
+
+and taking into consideration criticism from coworkers
+
+then ask yourself a couple of questions:
+  1. Which aspects of my work am I most proud of?
+  2. What can I do to improve the aspects I’m less proud of?
+  
   
   
