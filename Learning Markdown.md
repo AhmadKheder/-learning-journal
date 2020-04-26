@@ -23,8 +23,8 @@ You only need to :
 | Challeges     |  Embraces      | 
 | OBSTACLES     |  Persists      | 
 | Effort        | NO Pain,No Gain|   
-| Criticism     | Learns from    |  
+| Criticism     | Learns from    |
 
- Then your success is going to be inspired by Acheives more & Higher goals
+Then your success is going to be inspired by Acheives more & Higher goals
  
 
