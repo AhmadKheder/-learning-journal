@@ -27,6 +27,7 @@ You only need to :
 
 Then your success is going to be inspired by Acheives more & Higher goals
 
+
 Let's talk a littel bit in those case's details
 
 1. Challenges 
@@ -64,4 +65,15 @@ then ask yourself a couple of questions:
   2. What can I do to improve the aspects I’m less proud of?
   
   
-  
+  5. Success of others
+Be sure that your colleagues are dedicated with a passion for learning and you are a part of their company and it is easy to adopt the growth mindset concepts to influence peer interactions.
+We can choose to be more transparent or more helpful than might be required or than we’re used to. 
+
+
+## Growing at work, and outside work too
+
+Things like wisdom and achievement are the products of putting in hard work, not avoiding it.We live in a society where the instant gratification monkey sits on everyone’s shoulder. But the pleasures that result from determination and hard work far outweigh anything that devilish chimp has to offer. The right mindset, like the growth mindset, helps put things in perspective.
+
+
+ remember that short-term frustration will likely result in long-term improvement of your abilities – if you just stay with it. A growth mindset opens you up to more creativity and possibility, and 
+ you discover you are able to achieve more and set higher goals.
