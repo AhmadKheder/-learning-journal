@@ -17,6 +17,7 @@ You only need to :
  You Also need to know how to deal with cases in order **not** to be a *fixed mindset*
  
    When you face       
+   
 | CASE          | ACTION         |      
 | ------------- | :-------------:|
 | Challeges     |  Embraces      | 
