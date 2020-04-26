@@ -7,7 +7,7 @@
 
 You only need to :
  - [x] love learning <br/>
-###### AND <br/> 
+###### AND<br/> 
 ##### KEEP <br/>
 #### THIS <br/>
 ### IN<br/>
