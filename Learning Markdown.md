@@ -1,4 +1,15 @@
 
-
+ # Growth Mindset Welcomes You
+    ### Welcomes You
  # <p style="text-align: center;"> Learning Markdown  </p>
 
+### Do you want to develop your abilities through your perseverance and effort  ?
+
+You only need to :
+ - [x] love learning <br/>
+ AND <br/> 
+ KEEP <br/>
+ THIS <br/>
+ IN<br/>
+ MIND<br/>
+- [x] “Self, you need to embrace the growth mindset. The growth mindset is cool.”
