@@ -49,9 +49,9 @@ The concept of “instant gratification monkey syndrome.” applies to procrasti
 
 here, you have to ask yourself 
 
-   1.is this really what I want to do?
-   1.Am I giving up too easily? 
-   1.Would I rather shower off pangs of regret, or the sweat of accomplishment? .
+   1. is this really what I want to do?
+   1. Am I giving up too easily? 
+   1. Would I rather shower off pangs of regret, or the sweat of accomplishment? .
   
   
   
