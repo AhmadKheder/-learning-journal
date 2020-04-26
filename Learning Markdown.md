@@ -8,8 +8,8 @@
 You only need to :
  - [x] love learning <br/>
  ###### AND <br/> 
- ##### KEEP <br/>
- #### THIS <br/>
+##### KEEP <br/>
+#### THIS <br/>
 ### IN<br/>
 ## MIND<br/>
 ## - [x] “Self, you need to embrace the growth mindset. The growth mindset is cool.”
