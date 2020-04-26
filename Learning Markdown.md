@@ -43,3 +43,15 @@ A coworker talked about “instant gratification monkey syndrome.” It’s the 
 You also get stuck in the phenomenon of knowing what needs to be done, but lacking the motivation to do it. His solution is to stand up, put down whatever project is sucking the gumption out of you, walk away, and return when you’re feeling more inspired.
 Then you can keep going on with your project bit by bit until you get it done
 
+1. Effort
+
+The concept of “instant gratification monkey syndrome.” applies to procrastination in efforts you have to do, but you  feel better when you do it
+
+here, you have to ask yourself 
+
+  1.is this really what I want to do?
+  1.Am I giving up too easily? 
+  1.Would I rather shower off pangs of regret, or the sweat of accomplishment? .
+  
+  
+  
