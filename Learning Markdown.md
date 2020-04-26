@@ -37,6 +37,7 @@ All you have to do is to face the problem with a new strategy like, take a step 
 
 
 1.Obstacles
+
 A coworker talked about “instant gratification monkey syndrome.” It’s the idea that we’ll do just about anything other than the actual task at hand if it has suddenly become challenging, and especially when there are so many tempting diversions – articles, videos, email, social – mere clicks away.
 
 You also get stuck in the phenomenon of knowing what needs to be done, but lacking the motivation to do it. His solution is to stand up, put down whatever project is sucking the gumption out of you, walk away, and return when you’re feeling more inspired.
