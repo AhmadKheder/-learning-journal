@@ -12,4 +12,4 @@ You only need to :
 #### THIS <br/>
 ### IN<br/>
 ## MIND<br/>
-## **“Self, you need to embrace the growth mindset. The growth mindset is cool.”*
+## * **“Self, you need to embrace the growth mindset. The growth mindset is cool.”*
