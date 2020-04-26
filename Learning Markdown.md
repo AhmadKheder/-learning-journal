@@ -33,16 +33,22 @@ Let's talk a littel bit in those case's details
 1. Challenges 
   You know that everyone face challenges in coding or math and you always get stuck in it
 untile you conclude that it's impossble and you are incapable  of solving it, __STOP THINKING & ACTING LIKE A FIXED MINDSET__
+![](https://startupmagazine.co.ke/wp-content/uploads/2019/03/Imageee.jpeg)
 
 All you have to do is to face the problem with a new strategy like, take a step back, and think about the growth mindset. When you are ready, walk through the problem once again, bit by bit, looking for new ways to think about it until you start to see another way forward. I also recommend you to think out loud, that will lead you to find the root causes of your problem.
 
-![]()
+![](https://comomag.com/wp-content/uploads/2017/12/OrgHealth-EmotionalChallenges-CBT-Jan2018.jpg)
+
+
 2. Obstacles
 
 A coworker talked about “instant gratification monkey syndrome.” It’s the idea that we’ll do just about anything other than the actual task at hand if it has suddenly become challenging, and especially when there are so many tempting diversions – articles, videos, email, social – mere clicks away.
 
 You also get stuck in the phenomenon of knowing what needs to be done, but lacking the motivation to do it. His solution is to stand up, put down whatever project is sucking the gumption out of you, walk away, and return when you’re feeling more inspired.
 Then you can keep going on with your project bit by bit until you get it done
+![Obstacles image](https://hackernoon.com/hn-images/1*hu7TeBZ7lX4BTzUVLIhQJQ.png)
+
+
 
 3. Effort
 
@@ -87,6 +93,6 @@ Things like wisdom and achievement are the products of putting in hard work, not
 - [x]  Focus on the good things, however small.
 - [ ] Find humor in bad situations.
 - [x] Turn failures into lessons.
-- [] Transform negative self-talk into positive self-talk.
+- [ ] Transform negative self-talk into positive self-talk.
 - [x] Focus on the present.
 - [x] Find positive friends, mentors and co-workers.
