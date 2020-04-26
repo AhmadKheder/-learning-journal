@@ -36,7 +36,7 @@ untile you conclude that it's impossble and you are incapable  of solving it, __
 
 All you have to do is to face the problem with a new strategy like, take a step back, and think about the growth mindset. When you are ready, walk through the problem once again, bit by bit, looking for new ways to think about it until you start to see another way forward. I also recommend you to think out loud, that will lead you to find the root causes of your problem.
 
-
+![]()
 2. Obstacles
 
 A coworker talked about “instant gratification monkey syndrome.” It’s the idea that we’ll do just about anything other than the actual task at hand if it has suddenly become challenging, and especially when there are so many tempting diversions – articles, videos, email, social – mere clicks away.
@@ -77,3 +77,16 @@ Things like wisdom and achievement are the products of putting in hard work, not
 
  remember that short-term frustration will likely result in long-term improvement of your abilities – if you just stay with it. A growth mindset opens you up to more creativity and possibility, and 
  you discover you are able to achieve more and set higher goals.
+ 
+ 
+ 
+ 
+ 
+ Here  some of reminders that keep myself in a growth mindset and some of I don't :grin:
+- [x] Start the day with a positive affirmation.
+- [x]  Focus on the good things, however small.
+- [ ] Find humor in bad situations.
+- [x] Turn failures into lessons.
+- [] Transform negative self-talk into positive self-talk.
+- [x] Focus on the present.
+- [x] Find positive friends, mentors and co-workers.
