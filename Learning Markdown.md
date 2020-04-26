@@ -1,7 +1,7 @@
 
  # Growth Mindset Welcomes You
     ### Welcomes You
- # <p style="text-align: center;"> Learning Markdown  </p>
+
 
 ### Do you want to develop your abilities through your perseverance and effort  ?
 
