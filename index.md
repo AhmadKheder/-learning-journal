@@ -13,5 +13,8 @@ it include some symbols for designing your page :
 
 You also can check  [Mastring Markdown!](https://guides.github.com/features/mastering-markdown/)
 
+visit [The Learning Markdown
+!](https://ahmadkheder.github.io/-learning-journal/Learning%20Markdown)
+
 
 ![Have Fune Image](https://media.istockphoto.com/vectors/have-fun-postcard-vector-id639745910)
