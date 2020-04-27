@@ -1,0 +1,3 @@
+# Text
+
+In information technology, text is a human-readable sequence of character s and the words they form that can be...
