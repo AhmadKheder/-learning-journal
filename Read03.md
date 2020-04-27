@@ -31,10 +31,7 @@ DVCS allows clients to create mirrored repositories. These data backups can be e
 
 ## What is Git?
 
-[![image-text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSS9xpbiozKAtCgI0-qFbYB6-O0ehCd2_-UILVVQLJsNlFeYjYo&usqp=CAU)]
-(https://git-scm.com/about)
-
-
+[![Git-image](https://cdn-media-1.freecodecamp.org/images/VQhi-KgyeBh6jegrDc2zaLOGxsBWq0Bw5dNq)](https://git-scm.com/about)
 
 
 
