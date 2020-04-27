@@ -31,9 +31,10 @@ error and you can’t find it. As well as making your text easier to read
 
 
 ### Third-Party Options
-Ok, what about third-party options? Let’s talk about software like:
-*Notepad++*, *Text Wrangler*, *BB Edit*,*Visual Studio Code*,*Atom*,
-*Brackets*, and *Sublime Text*. These text editors can all be downloaded
+Ok, what about third-party options? Let’s talk about software
+like:
+__*Notepad++*, *Text Wrangler*, *BB Edit*,*Visual Studio Code*,*Atom*,
+*Brackets*, and *Sublime Text*__. These text editors can all be downloaded
 and installed to your computer from their respective websites. Each
 of these titles do have some if not all of the features that we talked
 about earlier, and most of this software is absolutely free! They are
