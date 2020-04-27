@@ -33,7 +33,7 @@ error and you can’t find it. As well as making your text easier to read
 ### Third-Party Options
 Ok, what about third-party options? Let’s talk about software
 like:
-__*Notepad++*, *Text Wrangler*, *BB Edit*,*Visual Studio Code*,*Atom*,
+__*Notepad++*, *Text Wrangler*, *BB Edit*,*[Visual Studio Code](https://code.visualstudio.com/)*,*Atom*,
 *Brackets*, and *Sublime Text*__. These text editors can all be downloaded
 and installed to your computer from their respective websites. Each
 of these titles do have some if not all of the features that we talked
